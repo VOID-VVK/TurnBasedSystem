@@ -1,0 +1,15 @@
+# Godot
+.godot/
+*.import
+
+# Godot UID files
+*.uid
+
+# C# / .NET
+bin/
+obj/
+*.csproj.user
+
+# OS
+.DS_Store
+Thumbs.db

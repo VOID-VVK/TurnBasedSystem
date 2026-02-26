@@ -1,0 +1,11 @@
+config_version=5
+
+[application]
+config/name="TurnBasedSystem"
+config/features=PackedStringArray("4.6", "C#")
+
+[editor_plugins]
+enabled=PackedStringArray("res://addons/TurnBasedSystem/plugin.cfg")
+
+[dotnet]
+project/assembly_name="TurnBasedSystem"
