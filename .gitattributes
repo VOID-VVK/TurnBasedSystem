@@ -1,7 +1,11 @@
 # Asset Library export-ignore
 *.md export-ignore
+*.csproj export-ignore
 .gitignore export-ignore
 .gitattributes export-ignore
+icon.png export-ignore
+LICENSE export-ignore
+project.godot export-ignore
 demo/ export-ignore
 docs/ export-ignore
 .godot/ export-ignore
