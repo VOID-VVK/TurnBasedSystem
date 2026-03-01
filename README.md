@@ -1,4 +1,4 @@
-# TurnBasedSystem
+# TurnBasedSystem-CS
 
 通用回合制系统 Godot 4.x C# 插件 — 四维组合架构，支持 8 种回合制类型。
 
